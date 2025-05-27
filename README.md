@@ -1,6 +1,6 @@
 # cs624-pe05-cities-currency
 
-**InputT**
+**Input**
 The program takes the user’s city name as input.
 
 **Output**
